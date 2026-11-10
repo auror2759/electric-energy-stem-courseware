@@ -1,2 +1,7 @@
-# electric-energy-stem-courseware
-Grade 8 STEM electricity engineering lesson: interactive courseware, worksheets, and teaching design.
+# 电能探秘：一米之外的工程学
+
+八年级STEM工程实践网页课件，40分钟。
+
+打开 index.html 或通过 GitHub Pages 访问。包括工程任务、互动电路、两轮实测记录、学习单和教学设计。摄影素材与科学参考见“素材与参考.html”。
+
+此目录是无需构建的静态部署版本，所有资源使用相对路径；本地输入仅保存在当前浏览器。
